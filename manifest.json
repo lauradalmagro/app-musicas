@@ -1,0 +1,10 @@
+{
+    "name": "Music",
+    "short_name": "Music",
+    "description": "Player de músicas",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#eeece3",
+    "theme_color": "#687653",
+    "orientation": "portrait"
+}
