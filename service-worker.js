@@ -7,7 +7,8 @@ const ARQUIVOS = [
     "./main.js",
     "./crud.js",
     "./configfirebase.js",
-    "./manifest.json"
+    "./manifest.json",
+    "./icon.png"
 ];
 
 self.addEventListener("install", (evento) => {

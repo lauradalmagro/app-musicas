@@ -9,7 +9,7 @@
     "orientation": "portrait",
     "icons": [
         {
-            "scr": "./musica (1).png",
+            "scr": "./icon.png",
             "sizes": "512x512",
             "type": "image/png"
         }
