@@ -2,6 +2,7 @@
     "name": "Music",
     "short_name": "Music",
     "description": "Player de músicas",
+    "id": "./index.html",
     "start_url": "./index.html",
     "display": "standalone",
     "background_color": "#eeece3",
@@ -9,7 +10,7 @@
     "orientation": "portrait",
     "icons": [
         {
-            "scr": "./icon.png",
+            "src": "./icon.png",
             "sizes": "512x512",
             "type": "image/png"
         }
