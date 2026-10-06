@@ -6,5 +6,12 @@
     "display": "standalone",
     "background_color": "#eeece3",
     "theme_color": "#687653",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "icons": [
+        {
+            "scr": "./musica (1).png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
